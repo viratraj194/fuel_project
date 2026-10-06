@@ -1,7 +1,7 @@
 
 # Fuel Optimization Routing API
 
- **Loom Video Walkthrough:** [Insert Loom Link Here]
+
 
     ## Overview
     This is a Django API that calculates the most cost-effective fuel stops for a vehicle traveling between two locations in the US. It assumes a vehicle
