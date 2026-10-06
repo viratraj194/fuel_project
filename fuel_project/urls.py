@@ -1,0 +1,8 @@
+
+from django.contrib import admin
+from django.urls import path, include
+
+urlpatterns = [
+    path('admin/', admin.site.urls),
+    path('api/', include('route_api.urls')), # This routes /api/route/ to our app
+]
